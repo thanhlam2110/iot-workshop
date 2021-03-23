@@ -1,0 +1,14 @@
+{
+    "mongo": {
+      "link": "mongodb://root:Vnpt123@54.169.219.90:27017/cas?authSource=admin",
+      "url": "mongodb://root:Vnpt123@54.169.219.90:27017/cas?authSource=admin"
+    },
+    "sso": {
+      "url": "https://iotsso.vdc2.com.vn:8443/cas/oauth2.0"
+    },
+    "mqttbroker": {
+      "urllocal": "tcp://18.141.164.223:1883",
+      "urlpublic_old": "tcp://broker1B:1883",
+      "urlpublic": "tcp://18.141.164.223:1883"
+    }
+}
